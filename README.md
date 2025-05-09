@@ -12,7 +12,7 @@ Curated by [CyberVectors](https://www.cyber-vectors.com) | by Raghav Singh, Grü
 
 ## About This Repository
 
-This repository presents a curated collection of **real-world security case studies**, **threat models**, and **hands-on technical demonstrations** focused on secure development in **automotive**, **SmartHome**,**Automation**, **IoT**,  **Medical**, **ProductSec**, **IoT**, **Aviaonics** and **embedded** environments.
+This repository presents a curated collection of **real-world security case studies** focusing on product security of any IIOT system with **threat models**, and **hands-on technical demonstrations** to understand secure development processes as well as technical and regulatory risks in **mobility**, **Consumer-Electronics**,**Automation**, **IoT**,  **Medical**, **Aviaonics** and **embedded** industries.
 
 > **Purpose**: Enable practitioners, engineers, researchers, and students to understand and apply cybersecurity principles using open-source tools and practical examples.
 
